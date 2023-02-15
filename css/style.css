@@ -32,6 +32,7 @@ p {
 
 nav {
   background-color: #272727;
+  border-radius: 3px;
 }
 
 .navBar a:not(:first-child) {
@@ -72,6 +73,7 @@ nav {
   display: flex;
   flex-direction: column;
   align-items: center;
+  border-radius: 3px;
   background-color: #191970;
   background-size: cover;
   background-repeat: no-repeat;
@@ -267,10 +269,23 @@ nav {
   padding: 0;
 }
 
+#loja p {
+  text-align: center;
+}
+
 #loja div a img {
   width: 40px;
   margin: 1px;
   border-radius: 5px;
+}
+
+#loja div .items {
+  width: 100%;
+}
+
+#loja .items img {
+  width: 100%;
+  border: solid 1px black ;
 }
 
 /*Footer*/
@@ -338,6 +353,17 @@ footer {
 
   #fotos h2, #fotos p {
     width: 100%;
+  }
+
+  /*Loja*/
+
+  #loja .items{
+    padding: 10px 30px 10px 30px;
+  }
+
+  #loja h2, #loja .items img{
+    width: 300px;
+    padding: 10px 30px 10px 30px;
   }
 
   /*Redes sociais*/
