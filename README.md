@@ -26,6 +26,7 @@
 - [x] Tornando a barra de navegação responsiva.
 - [x] Ajustes no html e css.
 - [x] Ajustes no html e css, inserindo icones e fonte.
+- [x] Ajustes no html, inserindo nova imagem na loja.
 
 
 <p>Parte da responsivide construída com base neste vídeo: https://www.youtube.com/watch?v=gRIWFYRaVto&ab_channel=HostingerBrasil</p>
