@@ -1,7 +1,7 @@
 $('.owl-carousel').owlCarousel({
     loop:true,
     nav: true,
-    navText: ["Anterior", "Próximo"],
+    navText: ["<i class='fa fa-chevron-left'></i>", "<i class='fa fa-chevron-right'></i>"],
     dots: false,
     autoplay: true,
     autoplayTimeout: 3000,

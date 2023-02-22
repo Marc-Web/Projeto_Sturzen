@@ -30,9 +30,8 @@ p {
   text-decoration: none;
 }
 
-#logo:hover {
-  color: greenyellow;
-  transition: .5s;
+#logo {
+  color: #FFFFFF;
 }
 
 nav {
@@ -54,9 +53,8 @@ nav {
   display: block;
 }
 
-.navBar.responsive a:hover {
-  color: greenyellow;
-  transition: .5s;
+.navBar.responsive a {
+  color: #4fc3f7;
 }
 
 .navBar.responsive a.icon {
@@ -65,7 +63,7 @@ nav {
   top: 0;
 }
 .navBar.responsive a {
-  color: #FFFFFF;
+  color: #4fc3f7;
   text-decoration: none;
   display: flex;
   flex-direction: column;
@@ -123,9 +121,8 @@ nav {
   color: #1c1c1c;
 }
 
-#agenda a:hover {
-  color: greenyellow;
-  transition: .5s;
+#agenda a {
+  color: #4fc3f7;
 }
 
 /*Notícias*/
@@ -153,9 +150,8 @@ nav {
   color: #1c1c1c;
 }
 
-#noticias ul li a:hover {
-  color: greenyellow;
-  transition: .5s;
+#noticias ul li a {
+  color: #4fc3f7;
 }
 
 /*Discografia*/
@@ -193,10 +189,9 @@ nav {
   color: #1c1c1c;
 }
 
-#fotos p a:hover {
+#fotos p a {
   text-decoration: none;
-  color: greenyellow;
-  transition: .5s;
+  color: #4fc3f7;
 }
 
 #fotos div ul {
@@ -229,13 +224,8 @@ nav {
 }
 
 #videos div ul li a {
-  color: #1c1c1c;
+  color: #4fc3f7;
   text-decoration: none;
-}
-
-#videos ul li a:hover {
-  color: greenyellow;
-  transition: .5s;
 }
 
 .icon-play {
@@ -262,9 +252,8 @@ nav {
   text-decoration: none;
 }
 
-#contato div p a:hover {
-  color: greenyellow;
-  transition: .5s;
+#contato div p a {
+  color: #4fc3f7;
 }
 
 /*Loja*/
@@ -296,9 +285,8 @@ nav {
   text-decoration: none;
 }
 
-#loja p a:hover {
-  color: greenyellow;
-  transition: .5s;
+#loja p a {
+  color: #4fc3f7;
 }
 
 #loja div a img {
@@ -393,7 +381,7 @@ footer {
   }
 
   .navBar a:hover {
-  color: greenyellow;
+  color: #4fc3f7;
   transition: .5s ease-in;
  }
 
