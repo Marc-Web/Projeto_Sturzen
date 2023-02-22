@@ -114,6 +114,7 @@ nav {
 
 #agenda p {
   text-align: center;
+  line-height: 1.5;
 }
 
 #agenda a {
@@ -147,11 +148,11 @@ nav {
 
 #noticias ul li a {
   text-decoration: none;
-  color: #1c1c1c;
+  color: #4fc3f7;
 }
 
-#noticias ul li a {
-  color: #4fc3f7;
+#noticias ul li {
+  line-height: 1.5;
 }
 
 /*Discografia*/
@@ -166,6 +167,10 @@ nav {
 
 #discografia h2 {
   font-size: 40px;
+}
+
+#discografia p {
+  line-height: 1.5;
 }
 
 /*Fotos*/
@@ -228,6 +233,10 @@ nav {
   text-decoration: none;
 }
 
+#videos div ul li p {
+  line-height: 1.5;
+}
+
 .icon-play {
   width: 10px;
   padding-right: 3px;
@@ -245,6 +254,10 @@ nav {
 
 #contato h2 {
   font-size: 40px;
+}
+
+#contato p {
+  line-height: 1.5;
 }
 
 #contato div p a {
@@ -278,6 +291,7 @@ nav {
 
 #loja p {
   text-align: center;
+  line-height: 1.5;
 }
 
 #loja p a {
@@ -311,7 +325,7 @@ nav {
 
 /*Redes Sociais*/
 
-#social {
+#redes-sociais {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -319,18 +333,18 @@ nav {
   padding: 20px;
 }
 
-#social div {
+#redes-sociais div {
   list-style: none;
   padding: 0;
 }
 
-#social div a img {
+#redes-sociais div a img {
   width: 40px;
   margin: 1px;
   border-radius: 5px;
 }
 
-#social div a img:hover {
+#redes-sociais div a img:hover {
   transform: translateY(-5px);
   transition: .4s ease-in;
 }
