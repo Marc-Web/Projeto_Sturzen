@@ -153,6 +153,8 @@ nav {
 
 #noticias ul li {
   line-height: 1.5;
+  list-style: disc;
+  list-style-position: inside;
 }
 
 /*Discografia*/
