@@ -365,6 +365,11 @@ footer {
   border-radius: 3px;
 }
 
+footer p a {
+  list-style: none;
+  color: #4fc3f7;
+}
+
 /*Responsividade*/
 
 @media screen and (min-width: 768px) {
