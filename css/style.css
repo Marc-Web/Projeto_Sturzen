@@ -365,9 +365,9 @@ footer {
   border-radius: 3px;
 }
 
-footer p a {
-  list-style: none;
+.marc-web-dev {
   color: #4fc3f7;
+  text-decoration: none;
 }
 
 /*Responsividade*/
