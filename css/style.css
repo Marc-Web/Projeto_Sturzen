@@ -410,6 +410,17 @@ footer {
     display: none;
   }
 
+  /*Notícias*/
+
+  #noticias ul li a {
+    color: #1c1c1c;
+  }
+
+  #noticias a:hover {
+    color: #4fc3f7;
+    transition: .5s ease-in;
+  }
+
   /*Contato*/
 
   #contato {
