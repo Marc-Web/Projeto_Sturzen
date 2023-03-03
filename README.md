@@ -2,7 +2,7 @@
 
 <p>Este é o projeto do site da banda Sturzen que desenvolvi com JavaScript, HTML e CSS. É um site responsivo que pode ser utilizado tanto em desktop quanto em celular.</p>
 <p>O site já está no ar neste link: https://sturzenbandaoficial.com/</p>
-<p>Fiz o deploy do site através da plataforma https://www.netlify.com/ implantando o site a partir do GitHub, assim posso alterar as informações do site, subir para o Github e o site é atualizado em tempo real.</p>
+<p>Fiz o deploy do site através da plataforma https://www.netlify.com/ implantando a partir do GitHub, assim posso alterar as informações, subir para o Github e o mesmo é atualizado em tempo real.</p>
 
 - [x] Criando a estrutura de pastas e o html e inserindo imagens.
 - [x] Criando o navbar.
