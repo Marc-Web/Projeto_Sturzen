@@ -380,6 +380,11 @@ footer {
 
   /*Nav*/
 
+  nav {
+    position: fixed;
+    width: 100%;
+  }
+
   .navBar div {
     flex-direction: row;
     width: 100%;
@@ -410,7 +415,23 @@ footer {
     display: none;
   }
 
+  /*Sobre*/
+
+  #sobre {
+    padding-top: 50px;
+  }
+
+  /*Agenda*/
+
+  #agenda {
+    padding-top: 40px;
+  }
+
   /*Notícias*/
+
+  #noticias {
+    padding-top: 40px;
+  }
 
   #noticias ul li a {
     color: #1c1c1c;
@@ -421,7 +442,29 @@ footer {
     transition: .5s ease-in;
   }
 
+  /*Discografia*/
+
+  #discografia {
+    padding-top: 40px;
+  }
+
+  /*Fotos*/
+
+  #fotos {
+    padding-top: 40px;
+  }
+
+  /*Vídeos*/
+
+  #videos {
+    padding-top: 40px;
+  }
+
   /*Contato*/
+
+  #contato {
+    padding-top: 40px;
+  }
 
   #contato {
     flex-direction: row;
@@ -441,6 +484,10 @@ footer {
 
   /*Loja*/
 
+  #loja {
+    padding-top: 40px;
+  }
+
   #loja .items{
     padding: 10px 30px 10px 30px;
   }
@@ -451,6 +498,10 @@ footer {
   }
 
   /*Redes sociais*/
+  
+  #redes-sociais {
+    padding-top: 40px;
+  }
 
   #redes-sociais {
     flex-direction: row;
